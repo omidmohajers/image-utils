@@ -1,0 +1,5 @@
+D:\Works\Git\ImageUtils\PA.ImageUtils\PA.ImageUtils\obj\Debug\PA.ImageUtils.csproj.CoreCompileInputs.cache
+D:\Works\Git\ImageUtils\PA.ImageUtils\PA.ImageUtils\bin\Debug\PA.ImageUtils.dll
+D:\Works\Git\ImageUtils\PA.ImageUtils\PA.ImageUtils\bin\Debug\PA.ImageUtils.pdb
+D:\Works\Git\ImageUtils\PA.ImageUtils\PA.ImageUtils\obj\Debug\PA.ImageUtils.dll
+D:\Works\Git\ImageUtils\PA.ImageUtils\PA.ImageUtils\obj\Debug\PA.ImageUtils.pdb
