@@ -85,6 +85,10 @@ namespace PA.PersianUtils.ImageUtils
                 fs.Close();
             }
         }
+        public static void Save(string fileName,Image img)
+        {
+            img.Save(fileName, ImageFormat.Jpeg);
+        }
         public static byte[] ToByte(Image image)
         {
             ImageConverter imageConverter = new ImageConverter();

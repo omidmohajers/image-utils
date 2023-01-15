@@ -1,0 +1,12 @@
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\bin\Debug\PA.ImageUtils.Win.exe
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\bin\Debug\PA.ImageUtils.Win.pdb
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\bin\Debug\PA.ImageUtils.dll
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\bin\Debug\PA.ImageUtils.pdb
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.csproj.AssemblyReference.cache
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.MainForm.resources
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.Properties.Resources.resources
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.csproj.GenerateResource.cache
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.csproj.CoreCompileInputs.cache
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.csproj.CopyComplete
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.exe
+D:\Works\Git\ImageUtils\image-utils\PA.ImageUtils.Win\obj\Debug\PA.ImageUtils.Win.pdb
