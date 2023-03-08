@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PA.ImageUtils.Win"
   ],
-  "SelectedNode": "\\PA.ImageUtils.sln",
+  "SelectedNode": "\\PA.ImageUtils.Win\\MainForm.cs",
   "PreviewInSolutionExplorer": false
 }
